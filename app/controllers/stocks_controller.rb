@@ -15,3 +15,4 @@ class StocksController < ApplicationController
   end
 
 end
+
